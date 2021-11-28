@@ -6,17 +6,24 @@ I developpe your apps with javascript or php. I am specialized in backend, espec
   - a portfolio,
   - an application for managing the scores of an orchestra,...
   
-- 🌱 I’m currently learning Php/Symfony, business management, ux/ui design. I prepare a web developper bachelor.
+- 🌱 I’m currently learning :
+  - Php/Symfony,
+  - business management,
+  - ux/ui design.
+
+I prepare a web developper bachelor.
 
 - 📫 How to reach me: mail -> armandine.dev@gmail.com
+
+## Toolbox
+
+![Javascript](icons/javascript.svg)
 
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armandine337711&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armandine337711&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armandine337711)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Armandine337711/Armandine337711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
