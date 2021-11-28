@@ -15,9 +15,11 @@ I prepare a web developper bachelor.
 
 - 📫 How to reach me: mail -> armandine.dev@gmail.com
 
-## Toolbox
+<!--## Toolbox
 
 ![Javascript](icons/javascript.svg)
+>
+
 
 ## &#x1f4c8; My GitHub Stats
 
