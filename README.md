@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I am Armandine Barge developper for web or applications 👋
+
+I developpe your apps with javascript or php. I am specialized in backend, espectially NodeJS and PostgreSQL.
+
+- 🔭 I’m currently working on many projects : a portfolio, an application for managing the scores of an orchestra,...
+- 🌱 I’m currently learning Php/Symfony, business management, ux/ui design. I prepare a web developper bachelor.
+- 📫 How to reach me: mail -> armandine.dev@gmail.com
 
 <!--
 **Armandine337711/Armandine337711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
