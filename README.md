@@ -7,7 +7,6 @@ I developpe your apps with javascript or php. I am specialized in backend, espec
   - an application for managing the scores of an orchestra,...
   
 - 🌱 I’m currently learning :
-  - Php/Symfony,
   - business management,
   - ux/ui design.
 
