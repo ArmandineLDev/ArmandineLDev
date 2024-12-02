@@ -1,8 +1,8 @@
 # Bienvenue dans mon univers de développeuse et créatrice de SaaS ! 🚀
 ## 🌟 À propos de moi
 
-Bonjour ! 
-Je suis une développeuse web passionnée, spécialisée dans la création de sites internet et d’applications SaaS. 
+Bonjour !  
+Je suis une développeuse web passionnée, spécialisée dans la création de sites internet et d’applications SaaS.  
 Avec plus de 20 ans d'expérience dans le développement et la gestion de projets, j'ai décidé de me lancer en tant que solopreneuse pour accompagner les artisans, TPE et autres entreprises dans leur transformation numérique.
 
 🎵 Musicienne et créatrice de solutions pour orchestres, je développe actuellement Orchestrify, un outil innovant pour faciliter la gestion des orchestres amateurs et professionnels.
@@ -28,10 +28,10 @@ Avec plus de 20 ans d'expérience dans le développement et la gestion de projet
     [Lien vers une contribution notable si applicable]. -->
 
 ## 🔧 Mes compétences techniques
-***Développement web & SaaS :*** JavaScript / TypeScript	Next.js, TailwindCSS	
-***Gestion de bases de données :*** SQL	PostgreSQL, Sqitch, MongoDb
-***Gestion de projets :***	Notion,	Trello, Jira
-***Organisation et qualité de code :***  ESLint, Prettier
+***Développement web & SaaS :*** JavaScript / TypeScript	Next.js, TailwindCSS  
+***Gestion de bases de données :*** SQL	PostgreSQL, Sqitch, MongoDb  
+***Gestion de projets :***	Notion,	Trello, Jira  
+***Organisation et qualité de code :***  ESLint, Prettier  
 ***Paiements et stockage sécurisé :*** Intégrations	Stripe, Resend, Backblaze
 
 ## 🛠️ Mon approche du développement
