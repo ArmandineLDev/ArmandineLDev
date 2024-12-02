@@ -8,8 +8,8 @@ Avec plus de 20 ans d'expérience dans le développement et la gestion de projet
 🎵 Musicienne et créatrice de solutions pour orchestres, je développe actuellement Orchestrify, un outil innovant pour faciliter la gestion des orchestres amateurs et professionnels.
 🛠️ Toujours en quête de solutions efficaces et modernes, je travaille avec des technologies comme Next.js, TypeScript, PostgreSQL, et plus encore.
 
-## 🖥️ Mes projets
-<!-- ### 🎼 Orchestrify
+<!--## 🖥️ Mes projets
+ ### 🎼 Orchestrify
 
     Une application SaaS dédiée aux orchestres, permettant de gérer plannings, partitions et musiciens.
     Technologies : Next.js, TailwindCSS, PostgreSQL, Neon.tech, Stripe, Sqitch.
