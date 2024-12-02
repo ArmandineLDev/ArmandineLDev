@@ -1,22 +1,25 @@
 # Bienvenue dans mon univers de développeuse et créatrice de SaaS ! 🚀
 ## 🌟 À propos de moi
 
-Bonjour ! Je suis une développeuse web passionnée, spécialisée dans la création de sites internet et d’applications SaaS. Avec plus de 20 ans d'expérience dans le développement et la gestion de projets, j'ai décidé de me lancer en tant que solopreneuse pour accompagner les artisans, TPE et autres entreprises dans leur transformation numérique.
+Bonjour ! 
+Je suis une développeuse web passionnée, spécialisée dans la création de sites internet et d’applications SaaS. 
+Avec plus de 20 ans d'expérience dans le développement et la gestion de projets, j'ai décidé de me lancer en tant que solopreneuse pour accompagner les artisans, TPE et autres entreprises dans leur transformation numérique.
 
 🎵 Musicienne et créatrice de solutions pour orchestres, je développe actuellement Orchestrify, un outil innovant pour faciliter la gestion des orchestres amateurs et professionnels.
 🛠️ Toujours en quête de solutions efficaces et modernes, je travaille avec des technologies comme Next.js, TypeScript, PostgreSQL, et plus encore.
+
 ## 🖥️ Mes projets
-### 🎼 Orchestrify
+<!-- ### 🎼 Orchestrify
 
     Une application SaaS dédiée aux orchestres, permettant de gérer plannings, partitions et musiciens.
     Technologies : Next.js, TailwindCSS, PostgreSQL, Neon.tech, Stripe, Sqitch.
-    Statut : En cours de développement, avec une livraison du MVP prévue pour fin décembre 2024 - début janvier 2025.
+    Statut : En cours de développement, avec une livraison du MVP prévue pour fin décembre 2024 - début janvier 2025. -->
 
 <!-- ➡️ Découvrez Orchestrify -->
-### 📋 Projets pour artisans et TPE
+<!-- ### 📋 Projets pour artisans et TPE
 
     Création de sites internet modernes et responsives.
-    Solutions adaptées aux besoins spécifiques des petites entreprises.
+    Solutions adaptées aux besoins spécifiques des petites entreprises. -->
     
 <!-- Exemple : [Nom d’un site fictif pour illustration]. -->
 <!-- 🌐 Contributions Open Source
